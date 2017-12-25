@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "462004150622",
+    "firebase_url": "https://projekpertama-ba5fb.firebaseio.com",
+    "project_id": "projekpertama-ba5fb",
+    "storage_bucket": "projekpertama-ba5fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462004150622:android:2550ea37976518d2",
+        "android_client_info": {
+          "package_name": "com.projekpertama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462004150622-9dfs4b69if0fdosjf1eld1tsbphn3kj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9Jw-aBtCcRs5sYYrLCX2WDfVlbfei_pY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
